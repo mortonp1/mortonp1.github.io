@@ -3,7 +3,7 @@
 	padding: 0;
 	box-sizing: border-box;
 }
-.header {
+/*.header {
   padding: 60px;
   text-align: center;
   background: #1abc9c;
@@ -11,5 +11,9 @@
   font-size: 30px;
 }
 .header a:link {
+	text-decoration:none;
+}
+*/
+a.header:link { 
 	text-decoration:none;
 }
