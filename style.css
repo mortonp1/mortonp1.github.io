@@ -10,3 +10,6 @@ header {
   color: white;
   font-size: 30px;
 }
+a:link {
+	text-decoration:none;
+}
