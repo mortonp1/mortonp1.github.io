@@ -42,6 +42,11 @@ a:hover{
   	color: black;
 }
 
+a:active {
+  background-color: #ddd;
+  color: black;
+}
+
 body{
 	background-color: #8B9AA6;
 	font-family: Georgia, serif;
