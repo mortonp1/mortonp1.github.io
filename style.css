@@ -29,15 +29,14 @@ header {
 }
 a:link {
 	text-decoration:none;
+	color: black;
 }
 
 a:visited{
 	text-decoration:none;
+	color:black;
 }
 
-a:link{
-	color: black;
-}
 a:hover{
 	background-color: #ddd;
   	color: black;
