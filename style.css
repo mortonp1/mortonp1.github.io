@@ -29,3 +29,38 @@ header {
 a:link {
 	text-decoration:none;
 }
+
+body{
+     background-color: #9A9AB4;
+     font-family: Georgia, serif;
+}
+
+h1{
+     color: #003333;
+     font-family: Georgia, serif;
+     font-size: 50px;
+     vertical-align: middle;
+}
+
+h2{
+	color: #081F1F;
+	font-family: Georgia, serif;
+	font-size: 30px;
+	text-align: center;
+	padding: 20px;
+}
+
+h3{
+	color: #081F1F;
+	font-family: Georgia, serif;
+	font-size: 20px;
+	text-align: center;
+}
+
+p{
+     color: #081F1F;
+     font-family: Georgia, serif;
+     font-size: 16px;
+     margin-right: 150px;
+     margin-left: 80px;
+}
