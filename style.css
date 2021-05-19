@@ -44,15 +44,15 @@ a:hover{
 }
 
 body{
-     background-color: #8B9AA6;
-     font-family: Georgia, serif;
+	background-color: #8B9AA6;
+	font-family: Georgia, serif;
 }
 
 h1{
-     color: #003333;
-     font-family: Georgia, serif;
-     font-size: 50px;
-     vertical-align: middle;
+	color: #003333;
+	font-family: Georgia, serif;
+	font-size: 50px;
+	vertical-align: middle;
 }
 
 h2{
@@ -71,9 +71,9 @@ h3{
 }
 
 p{
-     color: #081F1F;
-     font-family: Georgia, serif;
-     font-size: 16px;
-     margin-right: 150px;
-     margin-left: 80px;
+	color: #081F1F;
+	font-family: Georgia, serif;
+	font-size: 16px;
+	margin-right: 150px;
+	margin-left: 80px;
 }
