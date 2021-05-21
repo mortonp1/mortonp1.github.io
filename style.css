@@ -91,3 +91,11 @@ p{
 	margin-right: 20px;
 	margin-left: 20px;
 }
+reviews {
+	padding: 60px;
+	text-align: left;
+	background: #1abc9c;
+	color: white;
+	font-size: 20px;
+	margin-left:20px;
+}
