@@ -42,7 +42,7 @@ a:hover{
   	color: black;
 }
 
-a:active {
+a.active {
 	background-color: #ddd;
 	color: yellow;
 }
