@@ -26,6 +26,7 @@ header {
 	color: white;
 	font-size: 30px;
 	margin-left:20px;
+	position:fixed:
 }
 a:link {
 	text-decoration:none;
@@ -98,7 +99,7 @@ div.reviews {
 	color: white;
 	font-size: 20px;
 	margin-left:20px;
-	display:inline-block;
+	display:table;
 }
 div.reccomendations {
 	padding: 60px;
@@ -107,5 +108,5 @@ div.reccomendations {
 	color: white;
 	font-size: 20px;
 	margin-left:20px;
-	display:inline-block;
+	display:table;
 }
