@@ -91,7 +91,7 @@ p{
 	margin-right: 20px;
 	margin-left: 20px;
 }
-reviews {
+div.reviews {
 	padding: 60px;
 	text-align: left;
 	background: #1abc9c;
@@ -99,7 +99,7 @@ reviews {
 	font-size: 20px;
 	margin-left:20px;
 }
-reccomendations {
+div.reccomendations {
 	padding: 60px;
 	text-align: right;
 	background: #1abc9c;
