@@ -99,7 +99,8 @@ div.reviews {
 	color: white;
 	font-size: 20px;
 	margin-left:20px;
-	display:table;
+	border-radius: 20px;
+	display:table-cell;
 }
 div.reccomendations {
 	padding: 60px;
@@ -110,5 +111,5 @@ div.reccomendations {
 	margin-left:20px;
 	margin-bottom:20px;
 	border-radius: 20px;
-	display:table;
+	display:table-cell;
 }
