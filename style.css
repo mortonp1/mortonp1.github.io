@@ -99,3 +99,11 @@ reviews {
 	font-size: 20px;
 	margin-left:20px;
 }
+reccomendations {
+	padding: 60px;
+	text-align: right;
+	background: #1abc9c;
+	color: white;
+	font-size: 20px;
+	margin-left:20px;
+}
