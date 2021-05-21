@@ -94,16 +94,18 @@ p{
 div.reviews {
 	padding: 60px;
 	text-align: left;
-	background: #1abc9c;
+	background: #009933;
 	color: white;
 	font-size: 20px;
 	margin-left:20px;
+	display:inline-block;
 }
 div.reccomendations {
 	padding: 60px;
 	text-align: right;
-	background: #1abc9c;
+	background: #009933;
 	color: white;
 	font-size: 20px;
 	margin-left:20px;
+	display:inline-block;
 }
