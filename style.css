@@ -74,6 +74,7 @@ h1{
 	font-size: 50px;
 	vertical-align: middle;
 	margin-left:20px;
+	text-decoration: none;
 }
 
 h2{
@@ -132,12 +133,11 @@ div.reccomendations {
 	float: left;
 }
 
-section::after {
-  content: "";
-  display: table;
-  clear: both;
+clear:after{
+	content: "";
+	display: table;
+	clear: both;
 }
-
 
 .footer {
   padding: 20px;
