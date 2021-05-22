@@ -86,7 +86,7 @@ div.reviews {
 	margin-bottom:30px;
 	border-radius:20px;
 	width: 200px;
-	height: auto;
+	height: 100px;
 }
 div.reccomendations {
 	padding: 60px;
@@ -97,7 +97,7 @@ div.reccomendations {
 	margin-bottom:30px;
 	border-radius: 20px;
 	width: 100px;
-	height: auto;
+	height: 100px;
 }
 
 
