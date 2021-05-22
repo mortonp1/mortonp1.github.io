@@ -80,7 +80,7 @@ p{
 }
 
 div.reviews {
-	padding: 60px;
+	padding: 30px;
 	background: #92B0A3;
 	margin-left:20px;
 	margin-bottom:30px;
@@ -89,7 +89,7 @@ div.reviews {
 	height: 100px;
 }
 div.reccomendations {
-	padding: 60px;
+	padding: 30px;
 	text-align: left;
 	background: #92B0A3;
 	margin-left:20px;
