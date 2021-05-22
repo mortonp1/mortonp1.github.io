@@ -38,6 +38,9 @@ a.active {
 .top {
 	background-color: #8B9AA6;
 	padding: 15px;
+}
+
+.top a{
 	text-decoration:none;
 }
 
