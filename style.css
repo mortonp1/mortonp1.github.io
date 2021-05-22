@@ -100,7 +100,8 @@ div.reviews {
 	font-size: 20px;
 	margin-left:20px;
 	border-radius:20px;
-	display:table;
+	width: 300px;
+	height: 100px; 
 }
 div.reccomendations {
 	padding: 60px;
@@ -111,7 +112,8 @@ div.reccomendations {
 	margin-left:70px;
 	margin-bottom:30px;
 	border-radius: 20px;
-	display:table;
+	width: 300px;
+	height: 100px; 
 }
 
 div.boxes{
