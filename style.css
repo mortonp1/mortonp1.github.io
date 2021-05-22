@@ -87,6 +87,7 @@ div.reviews {
 	border-radius:20px;
 	width: 48%;
 	height: 200px;
+	float: left;
 }
 div.reccomendations {
 	padding: 30px;
@@ -97,6 +98,13 @@ div.reccomendations {
 	border-radius: 20px;
 	width: 48%;
 	height: 100px;
+	float: left;
+}
+
+section::after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 
