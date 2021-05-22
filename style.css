@@ -116,7 +116,6 @@ p{
 }
 
 div.reviews {
-	padding: 30px;
 	background: #92B0A3;
 	margin-left:20px;
 	margin-bottom:30px;
@@ -127,8 +126,6 @@ div.reviews {
 	float: left;
 }
 div.reccomendations {
-	padding: 30px;
-	text-align: left;
 	background: #92B0A3;
 	margin-left:20px;
 	margin-bottom:30px;
@@ -137,6 +134,10 @@ div.reccomendations {
 	width: 48%;
 	height: 300px;
 	float: left;
+}
+div.text{
+	text-align: center;
+  	padding: 10px 20px;
 }
 
 clear:after{
