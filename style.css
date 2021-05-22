@@ -87,7 +87,7 @@ div.reviews {
 	margin-top: 20px;
 	border-radius:20px;
 	width: 48%;
-	height: 200px;
+	height: 500px;
 	float: left;
 }
 div.reccomendations {
@@ -99,7 +99,7 @@ div.reccomendations {
 	margin-top: 20px;
 	border-radius: 20px;
 	width: 48%;
-	height: 100px;
+	height: 300px;
 	float: left;
 }
 
