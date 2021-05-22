@@ -95,21 +95,21 @@ p{
 div.reviews {
 	padding: 60px;
 	text-align: left;
-	background: #990000;
+	background: #92B0A3;
 	color: white;
 	font-size: 20px;
 	margin-left:20px;
-	border-radius: 20px;
-	display:table-cell;
+	border-radius:20px;
+	display:;
 }
 div.reccomendations {
 	padding: 60px;
 	text-align: right;
-	background: #990000;
+	background: #92B0A3;
 	color: white;
 	font-size: 20px;
 	margin-left:20px;
 	margin-bottom:20px;
 	border-radius: 20px;
-	display:table-cell;
+	display:table;
 }
