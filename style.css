@@ -141,7 +141,7 @@ div.text{
   	padding: 10px 20px;
 }
 
-clear:after{
+.clear:after{
 	content: "";
 	display: table;
 	clear: both;
