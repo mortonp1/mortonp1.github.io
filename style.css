@@ -100,16 +100,16 @@ div.reviews {
 	font-size: 20px;
 	margin-left:20px;
 	border-radius:20px;
-	display:;
+	display:table;
 }
 div.reccomendations {
 	padding: 60px;
-	text-align: right;
+	text-align: left;
 	background: #92B0A3;
 	color: white;
 	font-size: 20px;
-	margin-left:20px;
-	margin-bottom:20px;
+	margin-left:70px;
+	margin-bottom:30px;
 	border-radius: 20px;
 	display:table;
 }
