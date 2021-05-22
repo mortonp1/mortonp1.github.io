@@ -34,6 +34,12 @@ a.active {
 	color: black;
 }
 */
+
+.top {
+  background-color: #547289;
+  padding: 15px;
+}
+
 .header {
   overflow: hidden;
   background-color: #547289;
