@@ -84,6 +84,7 @@ div.reviews {
 	background: #92B0A3;
 	margin-left:20px;
 	margin-bottom:30px;
+	margin-top: 20px;
 	border-radius:20px;
 	width: 48%;
 	height: 200px;
@@ -95,6 +96,7 @@ div.reccomendations {
 	background: #92B0A3;
 	margin-left:20px;
 	margin-bottom:30px;
+	margin-top: 20px;
 	border-radius: 20px;
 	width: 48%;
 	height: 100px;
