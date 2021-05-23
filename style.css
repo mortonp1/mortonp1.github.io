@@ -150,6 +150,11 @@ div.text{
 	clear: both;
 }
 
+form{
+  margin-right: 150px;
+  margin-left: 80px;
+}
+
 .footer {
   padding: 20px;
   text-align: center;
