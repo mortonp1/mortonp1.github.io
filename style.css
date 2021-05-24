@@ -68,6 +68,9 @@ a.active {
 	font-weight: bold;
 }
 
+.header a.logo:hover {
+	text-decoration:none;
+}
 
 .header a:hover {
 	background-color: #ddd;
