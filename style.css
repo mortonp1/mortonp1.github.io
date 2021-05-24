@@ -38,7 +38,7 @@ a.active {
 .header {
 	overflow: hidden;
 	background-color: #99B0C1;
-	position: sticky;
+	position: fixed;
 	padding: 20px 10px;
 }
 
