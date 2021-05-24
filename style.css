@@ -156,7 +156,6 @@ div.popImage {
 	width: 48%;
 	height: auto;
 	float: left;
-	background-image: url("https://static01.nyt.com/images/2020/10/20/science/30TB-PENGUINS04/30TB-PENGUINS04-mediumSquareAt3X.jpg");
 	/*backgound-size: contain, cover;*/
 }
 div.text{
