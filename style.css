@@ -153,6 +153,7 @@ div.popImage {
 	margin-bottom:20px;
 	margin-top: 20px;
 	width: 24%;
+	height: auto;
 	float: left;
 	/*backgound-size: contain, cover;*/
 }
