@@ -154,7 +154,6 @@ div.popImage {
 	margin-top: 20px;
 	border-radius: 20px;
 	width: 25%;
-	height: auto;
 	float: left;
 	/*backgound-size: contain, cover;*/
 }
