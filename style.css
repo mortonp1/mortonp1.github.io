@@ -152,7 +152,6 @@ div.popImage {
 	margin-left:20px;
 	margin-bottom:20px;
 	margin-top: 20px;
-	border-radius: 20px;
 	width: 24%;
 	float: left;
 	/*backgound-size: contain, cover;*/
@@ -176,6 +175,7 @@ div.popImage img{
 	width:24%;
 	height: 350px;
 	object-fit: cover;
+	border-radius: 20px;
 }
 
 .clear:after{
