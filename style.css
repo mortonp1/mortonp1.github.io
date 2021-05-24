@@ -59,6 +59,11 @@ a.active {
 	font-weight: bold;
 }
 
+.header a:visited{
+	text-decoration:none;
+	color:black;
+}
+
 .header a.logo:hover {
 	text-decoration:none;
 }
