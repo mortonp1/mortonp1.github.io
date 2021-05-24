@@ -37,7 +37,7 @@ a.active {
 
 .header {
 	overflow: hidden;
-	background-color: #A7AFC2;
+	background-color: #99B0C1;
 	position: sticky;
 	padding: 20px 10px;
 }
@@ -45,7 +45,7 @@ a.active {
 
 .header a {
 	float: left;
-	color: #f2f2f2;
+	color: #black;
 	text-align: center;
 	padding: 12px;
 	text-decoration: none;
@@ -162,5 +162,5 @@ form{
 .footer {
 	padding: 20px;
 	text-align: center;
-	background-color: #A7AFC2;
+	background-color: #99B0C1;
 }
