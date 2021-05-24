@@ -35,18 +35,9 @@ a.active {
 }
 */
 
-.top {
-	background-color: #A7AFC2;
-	padding: 15px;
-}
-
-.top a{
-	text-decoration:none;
-}
-
 .header {
 	overflow: hidden;
-	background-color: #547289;
+	background-color: #A7AFC2;
 	position: sticky;
 	padding: 20px 10px;
 }
@@ -169,7 +160,7 @@ form{
 }
 
 .footer {
-  padding: 20px;
-  text-align: center;
-  background-color: #A7AFC2;
+	padding: 20px;
+	text-align: center;
+	background-color: #A7AFC2;
 }
