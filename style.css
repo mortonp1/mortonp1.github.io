@@ -148,6 +148,17 @@ div.recommendations {
 	height: 300px;
 	float: left;
 }
+div.popImage {
+	background: #92B0A3;
+	margin-left:20px;
+	margin-bottom:20px;
+	margin-top: 20px;
+	border-radius: 20px;
+	width: 48%;
+	height: 300px;
+	float: left;
+	background-image: url("https://static01.nyt.com/images/2020/10/20/science/30TB-PENGUINS04/30TB-PENGUINS04-mediumSquareAt3X.jpg");
+}
 div.text{
 	text-align: center;
   	padding: 10px 20px;
