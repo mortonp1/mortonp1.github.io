@@ -48,6 +48,7 @@ a.active {
 	overflow: hidden;
 	background-color: #547289;
 	position: sticky;
+	padding: 20px 10px;
 }
 
 
@@ -55,7 +56,7 @@ a.active {
 	float: left;
 	color: #f2f2f2;
 	text-align: center;
-	padding: 30px;
+	padding: 12px;
 	text-decoration: none;
 	font-size: 18px;
 	line-height: 25px;
