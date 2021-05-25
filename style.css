@@ -155,6 +155,7 @@ div.popImage {
 	width: 24%;
 	height: 200px;
 	float: left;
+	display: inline-block;
 	/*backgound-size: contain, cover;*/
 }
 div.text{
@@ -171,6 +172,7 @@ div.popArtist{
 	width: 70%;
 	height: 330px;
 	float: left;
+	display: inline-block;
 }
 div.popImage img{
 	width:100%;
