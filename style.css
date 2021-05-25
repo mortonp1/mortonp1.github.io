@@ -173,7 +173,7 @@ div.popArtist{
 	float: left;
 }
 div.popImage img{
-	width:100%;
+	width:24%;
 	height: auto;
 	object-fit: cover;
 	border-radius: 20px;
