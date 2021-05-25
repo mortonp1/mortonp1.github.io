@@ -162,7 +162,7 @@ div.popImage {
 div.popImage:hover{
 	border: 1px solid #777;
 	border-radius: 20px;
-	height:auto;
+	height:330px;
 }
 
 div.text{
