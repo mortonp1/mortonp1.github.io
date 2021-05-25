@@ -161,6 +161,7 @@ div.popImage {
 
 div.popImage:hover{
 	border: 1px solid #777;
+	border-radius: 20px;
 }
 
 div.text{
@@ -182,6 +183,7 @@ div.popArtist{
 
 div.popArtist:hover{
 	border: 1px solid #777;
+	border-radius: 20px;
 }
 
 div.popImage img{
