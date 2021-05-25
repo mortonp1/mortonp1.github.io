@@ -158,6 +158,11 @@ div.popImage {
 	display: inline-block;
 	/*backgound-size: contain, cover;*/
 }
+
+div.popImage:hover{
+	border: 1px solid #777;
+}
+
 div.text{
 	text-align: center;
   	padding: 10px 20px;
@@ -174,6 +179,11 @@ div.popArtist{
 	float: left;
 	display: inline-block;
 }
+
+div.popArtist:hover{
+	border: 1px solid #777;
+}
+
 div.popImage img{
 	width:100%;
 	height: auto;
