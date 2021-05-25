@@ -152,7 +152,7 @@ div.popImage {
 	margin-left:20px;
 	margin-bottom:20px;
 	margin-top: 20px;
-	width: 100%;
+	width: 24%;
 	height: auto;
 	float: left;
 	/*backgound-size: contain, cover;*/
@@ -168,12 +168,12 @@ div.popArtist{
 	margin-bottom:20px;
 	margin-top: 20px;
 	border-radius: 20px;
-	width: 74%;
+	width: 70%;
 	height: 300px;
 	float: left;
 }
 div.popImage img{
-	width:24%;
+	width:100%;
 	height: auto;
 	object-fit: cover;
 	border-radius: 20px;
