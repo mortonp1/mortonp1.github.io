@@ -237,6 +237,11 @@ div.popImage img{
 	clear: both;
 }
 
+.about {
+	margin-right: 80px;
+	margin-left: 80px;
+}
+
 form{
 	margin-right: 150px;
 	margin-left: 80px;
