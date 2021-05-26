@@ -150,8 +150,8 @@ div.recommendations {
 }
 div.popImage {
 	margin-left:20px;
-	margin-bottom:25px;
-	margin-top: 25px;
+	margin-bottom:30px;
+	margin-top: 30px;
 	width: 24%;
 	height: 200px;
 	float: left;
@@ -173,8 +173,8 @@ div.text{
 div.popArtist{
 	background: #92B0A3;
 	margin-left:20px;
-	margin-bottom:25px;
-	margin-top: 25px;
+	margin-bottom:30px;
+	margin-top: 30px;
 	border-radius: 20px;
 	width: 70%;
 	height: 320px;
@@ -185,6 +185,8 @@ div.popArtist{
 div.popArtist:hover{
 	border: 1px solid #777;
 	border-radius: 20px;
+	margin-bottom:30px;
+	margin-top: 30px;
 }
 
 div.popReview{
