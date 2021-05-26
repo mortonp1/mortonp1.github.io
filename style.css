@@ -120,6 +120,19 @@ h4{
 	margin-top:15px;
 }
 
+h5{
+	color: #081F1F;
+	font-family: Georgia, serif;
+	font-size: 30px;
+	padding: 20px;
+	margin-left:20px;
+}
+
+h5:visited{
+	text-decoration:none;
+	color:black;
+}
+
 p{
 	color: #081F1F;
 	font-family: Georgia, serif;
@@ -128,13 +141,7 @@ p{
 	margin-left: 20px;
 }
 
-h5{
-	color: #081F1F;
-	font-family: Georgia, serif;
-	font-size: 30px;
-	padding: 20px;
-	margin-left:20px;
-}
+
 
 div.reviews {
 	background: #92B0A3;
