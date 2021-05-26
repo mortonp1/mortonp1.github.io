@@ -45,7 +45,7 @@ a.active {
 
 .header a {
 	float: left;
-	color: black;
+	color: yellow;
 	text-align: center;
 	padding: 12px;
 	text-decoration: none;
@@ -134,7 +134,7 @@ h6{
 	font-size: 15px;
 	text-align: left;
 	margin-left:20px;
-	width: 70%;
+	width: 120%;
 }
 
 .artist a{
