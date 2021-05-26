@@ -159,7 +159,8 @@ h6{
 	margin-left:20px;
 	margin-top: 30px;
 	border-radius: 4px;
-	display: inliine-block;
+	/*display: inliine-block;*/
+	padding: 15px;
 }
 
 .artist a:visited{
