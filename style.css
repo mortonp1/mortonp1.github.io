@@ -208,7 +208,7 @@ div.recommendations {
 }
 div.popImage {
 	margin-left:20px;
-	margin-bottom:20px;
+	margin-bottom:25px;
 	margin-top: 20px;
 	width: 24%;
 	height: 200px;
@@ -272,6 +272,7 @@ div.popImage img{
 	border-radius: 20px;
 	float:left;
 	display:inline-block;
+	margin-bottom: 20px;
 }
 
 .clear:after{
