@@ -125,11 +125,11 @@ h5{
 	font-family: Georgia, serif;
 	font-size: 30px;
 	margin-left:20px;
+	margin-top: 20px;
 }
 
 .artist a{
 	text-decoration: none;
-	margin-top: 20px;
 }
 
 .artist a:visited{
