@@ -221,6 +221,13 @@ div.popImage {
 	border-radius: 20px;
 }*/
 
+
+div.artistSection{
+	margin-left:20px;
+	margin-top: 30px;
+	padding:300px;
+}
+
 div.text{
 	text-align: center;
   	padding: 10px 20px;
