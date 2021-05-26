@@ -220,14 +220,14 @@ div.popImage {
 /*div.popImage:hover{
 	border: 1px solid #777;
 	border-radius: 20px;
-}*/
+}
 
 
 div.artistSection{
 	margin-left:20px;
 	margin-top: 30px;
 	display: inline-block;
-}
+}*/
 
 div.text{
 	text-align: center;
@@ -270,6 +270,8 @@ div.popImage img{
 	height: auto;
 	object-fit: cover;
 	border-radius: 20px;
+	float:left;
+	display:inline-block;
 }
 
 .clear:after{
