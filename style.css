@@ -165,8 +165,8 @@ div.recommendations {
 }
 div.popImage {
 	margin-left:20px;
-	margin-bottom:30px;
-	margin-top: 30px;
+	margin-bottom:25px;
+	margin-top: 25px;
 	width: 24%;
 	height: 200px;
 	float: left;
@@ -187,8 +187,8 @@ div.text{
 div.popArtist{
 	background: #92B0A3;
 	margin-left:20px;
-	margin-bottom:30px;
-	margin-top: 30px;
+	margin-bottom:25px;
+	margin-top: 25px;
 	border-radius: 20px;
 	width: 70%;
 	height: 320px;
