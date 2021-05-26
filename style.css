@@ -237,7 +237,7 @@ div.popImage img{
 	clear: both;
 }
 
-.about {
+div.about {
 	margin-right: 80px;
 	margin-left: 80px;
 }
@@ -247,7 +247,7 @@ form{
 	margin-left: 80px;
 }
 
-.footer {
+div.footer {
 	padding: 20px;
 	text-align: center;
 	background-color: #99B0C1;
