@@ -187,6 +187,18 @@ div.popArtist:hover{
 	border-radius: 20px;
 }
 
+div.popReview{
+	background: #92B0A3;
+	margin-left:20px;
+	margin-bottom:20px;
+	margin-top: 20px;
+	border-radius: 20px;
+	width: 70%;
+	height: 200px;
+	float: left;
+	/*display: inline-block;*/
+}
+
 div.popImage img{
 	width:100%;
 	height: auto;
