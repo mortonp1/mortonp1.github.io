@@ -81,6 +81,19 @@ a.active {
 	float: right;
 }
 
+.footer-right a:hover {
+	background-color: #ddd;
+	color: black;
+}
+
+.footer-right a.active {
+	background-color: #ddd;
+	color: black;
+}
+.footer-right{
+	float: right;
+}
+
 body{
 	background-color: #C1CFDA;
 	font-family: Georgia, serif;
