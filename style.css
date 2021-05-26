@@ -159,10 +159,10 @@ div.popImage {
 	/*backgound-size: contain, cover;*/
 }
 
-div.popImage:hover{
+/*div.popImage:hover{
 	border: 1px solid #777;
 	border-radius: 20px;
-}
+}*/
 
 div.text{
 	text-align: center;
