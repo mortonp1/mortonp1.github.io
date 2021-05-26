@@ -81,19 +81,6 @@ a.active {
 	float: right;
 }
 
-.footer-right a:hover {
-	background-color: #ddd;
-	color: black;
-}
-
-.footer-right a.active {
-	background-color: #ddd;
-	color: black;
-}
-.footer-right{
-	float: right;
-}
-
 body{
 	background-color: #C1CFDA;
 	font-family: Georgia, serif;
@@ -183,6 +170,7 @@ div.reviews {
 	width: 48%;
 	height: 640px;
 	float: left;
+	overflow-y: scroll;
 }
 
 div.recommendations {
@@ -194,6 +182,7 @@ div.recommendations {
 	width: 48%;
 	height: 300px;
 	float: left;
+	overflow-y: scroll;
 }
 div.popImage {
 	margin-left:20px;
@@ -226,7 +215,7 @@ div.popArtist{
 	height: 320px;
 	float: left;
 	display: inline-block;
-	
+	overflow-y: scroll;
 }
 
 div.popArtist:hover{
