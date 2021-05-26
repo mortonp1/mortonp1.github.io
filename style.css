@@ -180,13 +180,13 @@ div.popArtist{
 	height: 320px;
 	float: left;
 	display: inline-block;
+	position: relative;
 }
 
 div.popArtist:hover{
 	border: 1px solid #777;
 	border-radius: 20px;
-	margin-bottom:30px;
-	margin-top: 30px;
+	position: absolute;
 }
 
 div.popReview{
