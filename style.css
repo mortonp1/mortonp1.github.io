@@ -130,11 +130,19 @@ h5{
 
 .artist a{
 	text-decoration: none;
+	line-height: 25px;
+	border-radius: 4px;
+	padding: 12px;
 }
 
 .artist a:visited{
 	text-decoration:none;
 	color:black;
+}
+
+.artist a:hover{
+	background-color: #ddd;
+	color: black;
 }
 
 p{
