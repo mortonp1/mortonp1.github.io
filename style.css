@@ -158,9 +158,8 @@ h6{
 	font-size: 30px;
 	margin-left:20px;
 	margin-top: 30px;
-	border-radius: 4px;
-	/*display: inliine-block;*/
-	padding: 15px;
+	border-radius: 10px;
+	display: inliine-block;
 }
 
 .artist a:visited{
