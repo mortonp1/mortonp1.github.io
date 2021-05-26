@@ -229,6 +229,7 @@ div.popReview{
 	width: 70%;
 	height: 150px;
 	float: left;
+	overflow-y: scroll;
 	/*display: inline-block;*/
 }
 
