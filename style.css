@@ -156,6 +156,7 @@ div.popImage {
 	height: 200px;
 	float: left;
 	display: inline-block;
+	position:relative;
 	/*backgound-size: contain, cover;*/
 }
 
@@ -163,6 +164,7 @@ div.popImage:hover{
 	border: 1px solid #777;
 	border-radius: 20px;
 	height:330px;
+	position: absolute;
 }
 
 div.text{
@@ -186,7 +188,6 @@ div.popArtist{
 div.popArtist:hover{
 	border: 1px solid #777;
 	border-radius: 20px;
-	margin:-1px;
 }
 
 div.popReview{
