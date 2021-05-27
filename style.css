@@ -234,6 +234,10 @@ div.text{
   	padding: 10px 20px;
 }
 
+div.text p{
+	text-align: left;
+}
+
 div.popArtist{
 	background: #92B0A3;
 	margin-left:20px;
