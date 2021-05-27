@@ -92,6 +92,8 @@ a.active {
 }
 .footer-right{
 	float: right;
+	top:0;
+	display: inline-block;
 }
 
 body{
