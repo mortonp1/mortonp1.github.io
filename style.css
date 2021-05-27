@@ -45,7 +45,7 @@ a.active {
 
 .header a {
 	float: left;
-	color: yellow;
+	color: black;
 	text-align: center;
 	padding: 12px;
 	text-decoration: none;
@@ -256,7 +256,7 @@ div.text{
 .text a{
 	text-decoration: none;
 	border-radius: 7px;
-	line-height: 1.8;
+	line-height: 2;
 	padding: 10px;
 }
 
@@ -273,6 +273,7 @@ div.text{
 div.text p{
 	text-align: left;
 	line-height: 1.5;
+	border-radius: 7px;
 }
 
 .text p:visited{
