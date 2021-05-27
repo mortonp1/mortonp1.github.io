@@ -242,6 +242,7 @@ div.text p{
 div.popArtist{
 	background: #92B0A3;
 	margin-left:20px;
+	margin-right:20px;
 	margin-bottom:25px;
 	margin-top: 20px;
 	border-radius: 20px;
@@ -255,6 +256,7 @@ div.popArtist{
 div.popArtist:hover{
 	border: 1px solid #777;
 	border-radius: 20px;
+	margin-right:20px;
 }
 
 div.popReview{
