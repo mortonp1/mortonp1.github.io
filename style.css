@@ -341,5 +341,5 @@ div.footer {
 	left:0;
 	bottom:0;
 	background-color: #99B0C1;
-	position: fixed;
+	position: sticky;
 }
