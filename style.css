@@ -254,6 +254,9 @@ div.text{
 	text-align: center;
   	padding: 10px 20px;
 }
+.text a{
+	text-decoration: none;
+}
 
 div.text p{
 	text-align: left;
