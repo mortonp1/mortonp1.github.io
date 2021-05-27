@@ -45,7 +45,7 @@ a.active {
 
 .header a {
 	float: left;
-	color: black;
+	color: yellow;
 	text-align: center;
 	padding: 12px;
 	text-decoration: none;
@@ -117,7 +117,7 @@ body{
 body::after {
   content: '';
   display: block;
-  height: 50px; 
+  height: 40px; 
 }
 
 h1{
@@ -344,7 +344,7 @@ form{
 }
 
 div.footer {
-	padding: 50px;
+	height: 40px;
 	bottom:0;
 	background-color: #99B0C1;
 	width: 100%;
