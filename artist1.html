@@ -2,7 +2,7 @@
 <html lang="en">
   
   <head>
-    <title> Artist 1 change9 </title>
+    <title> Artist 1 change10 </title>
     <link rel = "stylesheet" href = "style.css">
   </head>
   
@@ -75,7 +75,7 @@
     
     <div class="clear"></div>
     
-    <form onsubmit = "confirmInput()" action="artist1.html">
+    <form onsubmit = "newReview()" action="artist1.html">
       Review subject: <input id = "subj" type="text">
       <span> Write your review! </span>
       <br>
@@ -101,6 +101,12 @@
       function confirmInput() {
         subj = document.forms[0].subj.value;
         alert("Hello " + subj + "! Your form was successfully submitted!" + document.getElementById("review").value);
+      }
+      function newReview() {
+        subj = document.forms[0].subj.value;
+        review = document.getElementById("review").value
+        var h = document.createElement("popImage");
+        document.body.appendChild(h);
       }
     </script>
   </body>
