@@ -75,6 +75,23 @@
     
     <div class="clear"></div>
     
+    <form onsubmit = "confirmInput()" action="about.html">
+      Review subject: <input id = "subj" type="text">
+      <span> Write your review! </span>
+      <br>
+      <textarea id = "review" rows = "4" cols = "80"> </textarea>
+      <br>
+      <input type = "submit">
+    </form>
+    
+    <script>
+
+    function confirmInput() {
+      fname = document.forms[0].fname.value;
+      alert("Hello " + fname + "! Your form was successfully submitted!" + document.getElementById("review").value);
+    }
+    </script>
+    
     <br>
     <br>
     
