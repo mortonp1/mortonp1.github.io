@@ -253,6 +253,7 @@ div.artistSection{
 div.text{
 	text-align: center;
   	padding: 10px 20px;
+	border-radius: 8px;
 }
 .text a{
 	text-decoration: none;
