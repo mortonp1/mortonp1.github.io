@@ -68,7 +68,7 @@ a.active {
 	text-decoration:none;
 }
 
-/*.header-right a:hover {
+.header-right a:hover {
 	background-color: #ddd;
 	color: black;
 }
@@ -81,7 +81,7 @@ a.active {
 	float: right;
 }
 
-
+/*
 .footer-right a.active {
 	background-color: #ddd;
 	color: black;
