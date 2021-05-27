@@ -2,7 +2,7 @@
 <html lang="en">
   
   <head>
-    <title> Artist 1 change23 </title>
+    <title> Artist 1 change24 </title>
     <link rel = "stylesheet" href = "style.css">
   </head>
   
@@ -105,12 +105,19 @@
         alert("Hello " + subj + "! Your form was successfully submitted!" + document.getElementById("review").value);
       }
       function newReview() {
-        /*var subj = document.forms[0].subj.value;
+        var subj = document.forms[0].subj.value;
         var review = document.getElementById("review").value;
+        
         var h = document.createElement("div");
         h.className = "popReview";
+        
+        var h3 = document.createElement("div");
+        h3.className = "h3";
+        var text = document.createTextNode(subj);
+        h.appendChild(text);
+        
         var reviews = document.getElementById("reviews");
-        reviews.insertBefore(h, reviews.childNodes[0]);*/
+        reviews.insertBefore(h, reviews.childNodes[0]);
       }
     </script>
   </body>
