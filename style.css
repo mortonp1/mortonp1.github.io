@@ -252,6 +252,7 @@ div.artistSection{
 
 div.text2{
   	padding: 10px 20px;	
+	overflow: hidden;
 }
 .text2 a{
 	text-decoration: none;
