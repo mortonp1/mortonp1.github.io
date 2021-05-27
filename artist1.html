@@ -2,7 +2,7 @@
 <html lang="en">
   
   <head>
-    <title> Artist 1 change19 </title>
+    <title> Artist 1 change20 </title>
     <link rel = "stylesheet" href = "style.css">
   </head>
   
@@ -21,8 +21,9 @@
      
     <h4>Olivia Rodrigo</h4>
     <div class="popImage">
-      <img src="https://holrmagazine.com/wp-content/uploads/2021/05/Olivia-tracklist.jpeg" alt = "SOUR Album Track List">
+       <img src="https://static01.nyt.com/images/2021/01/31/arts/31popcast/31popcast-mediumSquareAt3X.jpg" alt="Image of Olivia Rodrigo">
     </div>
+    
       
      <div class="songs">
       <div class="text">
@@ -53,10 +54,9 @@
     </div>
     
   
-        
     <div class="popImage">
-       <img src="https://static01.nyt.com/images/2021/01/31/arts/31popcast/31popcast-mediumSquareAt3X.jpg" alt="Image of Olivia Rodrigo">
-    </div>
+      <img src="https://holrmagazine.com/wp-content/uploads/2021/05/Olivia-tracklist.jpeg" alt = "SOUR Album Track List">
+    </div>    
     
     <div id="reviews">
       <div class="popReview">
@@ -105,13 +105,24 @@
         alert("Hello " + subj + "! Your form was successfully submitted!" + document.getElementById("review").value);
       }
       function newReview() {
-        subj = document.forms[0].subj.value;
-        review = document.getElementById("review").value;
+        var subj = document.forms[0].subj.value;
+        var review = document.getElementById("review").value;
+        var r = document.createElement("div");
+        r.className = "popReview";
         var h = document.createElement("div");
-        h.className = "popReview";
+        h.className = "text";
+        var h3 = document.createElement("div");
+        h3.className = "h3";
+        var textnode = document.createTextNode("Review of " + subj);
+        h3.appendChild(textnode);
+        var p = document.createElement("div");
+        p.className = "p";
+        textnode = document.createTextNode(review);
+        p.appendChild(textnode);
+        r.appendChild(h3);
+        r.appendChild(p);
         var reviews = document.getElementById("reviews");
-        reviews.insertBefore(h, reviews.childNodes[0]);
-        document.reviews.appendChild(h);
+        document.reviews.appendChild(r);
       }
     </script>
   </body>
