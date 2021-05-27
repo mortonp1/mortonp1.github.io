@@ -2,7 +2,7 @@
 <html lang="en">
   
   <head>
-    <title> Artist 1 change21 </title>
+    <title> Artist 1 change22 </title>
     <link rel = "stylesheet" href = "style.css">
   </head>
   
@@ -107,11 +107,11 @@
       function newReview() {
         var subj = document.forms[0].subj.value;
         var review = document.getElementById("review").value;
-        var r = document.createElement("div");
-        r.className = "popReview";
-        var text = document.createTextNode(subj);
-        r.appendChild(text);
-        document.reviews.appendChild(r);
+        var h = document.createElement("div");
+        h.className = "popReview";
+        var reviews = document.getElementById("reviews");
+        /*reviews.insertBefore(h, reviews.childNodes[0]);*/
+        document.reviews.appendChild(h);
       }
     </script>
   </body>
