@@ -336,5 +336,7 @@ form{
 
 div.footer {
 	padding: 60px;
+	overflow: hidden;
 	background-color: #99B0C1;
+	position: sticky;
 }
