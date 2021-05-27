@@ -90,6 +90,8 @@ a.active {
 	float: right;
 	top:0;
 	display: inline-block;
+	margin-bottom: 20px;
+	margin-top: 20px;
 }
 
 
@@ -101,6 +103,9 @@ a.active {
 	float: left;
 	top:0;
 	display: inline-block;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
 }
 
 body{
@@ -332,6 +337,6 @@ form{
 }
 
 div.footer {
-	padding: 50px;
+	padding: 60px;
 	background-color: #99B0C1;
 }
