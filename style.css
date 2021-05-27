@@ -117,7 +117,7 @@ body{
 body::after {
   content: '';
   display: block;
-  height: 60px; 
+  height: 50px; 
 }
 
 h1{
@@ -344,7 +344,7 @@ form{
 }
 
 div.footer {
-	padding: 60px;
+	padding: 50px;
 	bottom:0;
 	background-color: #99B0C1;
 	width: 100%;
