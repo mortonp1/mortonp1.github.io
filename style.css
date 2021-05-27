@@ -81,10 +81,6 @@ a.active {
 	float: right;
 }
 
-.footer-right a:hover {
-	background-color: #ddd;
-	color: black;
-}
 
 .footer-right a.active {
 	background-color: #ddd;
@@ -92,6 +88,17 @@ a.active {
 }
 .footer-right{
 	float: right;
+	top:0;
+	display: inline-block;
+}
+
+
+.footer-left a.active {
+	background-color: #ddd;
+	color: black;
+}
+.footer-left{
+	float: left;
 	top:0;
 	display: inline-block;
 }
