@@ -111,6 +111,13 @@ a.active {
 body{
 	background-color: #C1CFDA;
 	font-family: Georgia, serif;
+	position: relative;
+}
+
+body::after {
+  content: '';
+  display: block;
+  height: 60px; 
 }
 
 h1{
