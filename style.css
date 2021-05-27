@@ -272,8 +272,7 @@ div.text2{
 
 div.text2 p{
 	text-align: left;
-	line-height: 1.5;
-	border-radius: 7px;
+	border-radius: 8px;
 }
 
 .text2 p:visited{
