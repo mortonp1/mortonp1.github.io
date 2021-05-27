@@ -2,7 +2,7 @@
 <html lang="en">
   
   <head>
-    <title> Artist 1 change20 </title>
+    <title> Artist 1 change21 </title>
     <link rel = "stylesheet" href = "style.css">
   </head>
   
@@ -109,19 +109,8 @@
         var review = document.getElementById("review").value;
         var r = document.createElement("div");
         r.className = "popReview";
-        var h = document.createElement("div");
-        h.className = "text";
-        var h3 = document.createElement("div");
-        h3.className = "h3";
-        var textnode = document.createTextNode("Review of " + subj);
-        h3.appendChild(textnode);
-        var p = document.createElement("div");
-        p.className = "p";
-        textnode = document.createTextNode(review);
-        p.appendChild(textnode);
-        r.appendChild(h3);
-        r.appendChild(p);
-        var reviews = document.getElementById("reviews");
+        var text = document.createTextNode(subj);
+        r.appendChild(text);
         document.reviews.appendChild(r);
       }
     </script>
