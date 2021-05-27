@@ -342,11 +342,7 @@ form{
 	margin-right: 150px;
 	margin-left: 80px;
 }
-
 div.footer {
-	height: 60px;
-	bottom:0;
+	padding: 30px;
 	background-color: #99B0C1;
-	width: 100%;
-	position: absolute;
 }
