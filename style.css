@@ -258,6 +258,16 @@ div.text{
 	text-decoration: none;
 }
 
+.text a:visited{
+	text-decoration:none;
+	color:black;
+}
+
+.text a:hover{
+	background-color: #ddd;
+	color: black;
+}
+
 div.text p{
 	text-align: left;
 	line-height: 1.5;
