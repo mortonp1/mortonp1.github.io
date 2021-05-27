@@ -236,6 +236,7 @@ div.text{
 
 div.text p{
 	text-align: left;
+	line-height: 1.5;
 }
 
 div.popArtist{
