@@ -275,6 +275,16 @@ div.text p{
 	line-height: 1.5;
 }
 
+.text p:visited{
+	text-decoration:none;
+	color:black;
+}
+
+.text p:hover{
+	background-color: #ddd;
+	color: black;
+}
+
 div.text ul{
 	text-align: left;
 	line-height: 1.5;
