@@ -84,14 +84,6 @@
       <input type = "submit">
     </form>
     
-    <script>
-
-    function confirmInput() {
-      fname = document.forms[0].fname.value;
-      alert("Hello " + fname + "! Your form was successfully submitted!" + document.getElementById("review").value);
-    }
-    </script>
-    
     <br>
     <br>
     
@@ -106,6 +98,10 @@
     </div>
     <script>
       localStorage.setItem('oReview', document.getElementById("oliviaReview").innerHTML);
+      function confirmInput() {
+        fname = document.forms[0].fname.value;
+        alert("Hello " + fname + "! Your form was successfully submitted!" + document.getElementById("review").value);
+      }
     </script>
   </body>
 </html>
