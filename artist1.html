@@ -105,7 +105,8 @@
       function newReview() {
         subj = document.forms[0].subj.value;
         review = document.getElementById("review").value
-        var h = document.createElement("popImage");
+        var h = document.createElement("div");
+        h.className = "popReview";
         document.body.appendChild(h);
       }
     </script>
