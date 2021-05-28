@@ -2,7 +2,7 @@
 <html lang="en">
   
   <head>
-    <title> Artist 1 change35 </title>
+    <title> Artist 1 change36 </title>
     <link rel = "stylesheet" href = "style.css">
   </head>
   
@@ -79,6 +79,7 @@
     
     <form onsubmit = "newReview()" action = "#">
       Review subject: <input id = "subj" type="text">
+      <br>
       <span> Write your review! </span>
       <br>
       <textarea id = "review" rows = "4" cols = "80"> </textarea>
@@ -100,13 +101,10 @@
     </div>
     <script>
       localStorage.setItem('oReview', document.getElementById("oliviaReview").innerHTML);
-      function confirmInput() {
-        subj = document.forms[0].subj.value;
-        alert("Hello " + subj + "! Your form was successfully submitted!" + document.getElementById("review").value);
-      }
+   
       function newReview() {
         var subj = document.forms[0].subj.value;
-        var review = document.getElementById("review").value;
+        var review = "Review of " + document.getElementById("review").value;
         
         var h = document.createElement("div");
         h.className = "popReview";
