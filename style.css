@@ -272,6 +272,7 @@ div.text2{
 	background-color: #ddd;
 	color: black;
 	border-radius: 20px;
+	border: 1px solid #777;
 }
 
 div.text2 p{
