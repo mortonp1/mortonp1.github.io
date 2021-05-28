@@ -259,6 +259,8 @@ div.text2{
 	border-radius: 7px;
 	line-height: 1.5;
 	padding: 25px;
+	background-color:#ddd;
+	
 }
 
 .text2 a:visited{
@@ -269,6 +271,7 @@ div.text2{
 .text2 a:hover{
 	background-color: #ddd;
 	color: black;
+	border-radius: 20px;
 }
 
 div.text2 p{
