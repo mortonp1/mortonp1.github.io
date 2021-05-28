@@ -2,7 +2,7 @@
 <html lang="en">
   
   <head>
-    <title> Artist 1 change37 </title>
+    <title> Artist 1 change39 </title>
     <link rel = "stylesheet" href = "style.css">
   </head>
   
@@ -77,7 +77,7 @@
     </div>
     <div class="clear"></div>
     
-    <form action = "#" onsubmit = "newReview()">
+    <form action = "#" onsubmit = "return newReview()">
       Review subject: <input id = "subj" type="text">
       <br>
       <span> Write your review! </span>
@@ -122,6 +122,7 @@
         
         var reviews = document.getElementById("reviews");
         reviews.insertBefore(h, reviews.childNodes[-1]);
+        return false;
       }
 
     </script>
