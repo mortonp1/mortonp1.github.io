@@ -258,8 +258,9 @@ div.text2 p{
 }
 
 .text2 p:hover{
-	font-weight: bold;
+	/*font-weight: bold;*/
 	color: #black;
+	background-color: #ddd;
 }
 
 div.text{
