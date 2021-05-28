@@ -45,7 +45,7 @@ a.active {
 
 .header a {
 	float: left;
-	color: yellow;
+	color: black;
 	text-align: center;
 	padding: 12px;
 	text-decoration: none;
@@ -277,7 +277,6 @@ div.text2 p{
 	margin-right: 10px;
 	margin-top: 10px;
 	margin-bottom: 10px;
-	background: #ddd;
 }
 
 .text2 p:visited{
@@ -287,6 +286,7 @@ div.text2 p{
 
 .text2 p:hover{
 	/*font-weight: bold;*/
+	text-decoration: none;
 	color: #0B0080;
 }
 
