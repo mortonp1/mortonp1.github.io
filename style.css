@@ -259,6 +259,8 @@ div.text2{
 	border-radius: 7px;
 	line-height: 1.5;
 	padding: 25px;
+	position: absolute;
+	pointer-events:none;
 }
 
 .text2 a:visited{
