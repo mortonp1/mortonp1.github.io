@@ -17,7 +17,7 @@
 
 .header a {
 	float: left;
-	color: yellow;
+	color: black;
 	text-align: center;
 	padding: 12px;
 	text-decoration: none;
@@ -239,10 +239,10 @@ div.text2{
 	color:black;
 }
 
-.text2 a:hover{
+/*.text2 a:hover{
 	background-color: #ddd;
 	color: black;
-}
+}*/
 
 div.text2 p{
 	text-align: left;
