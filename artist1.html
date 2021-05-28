@@ -103,8 +103,8 @@
       localStorage.setItem('oReview', document.getElementById("oliviaReview").innerHTML);
    
       function newReview() {
-        var subj = document.forms[0].subj.value;
-        var review = "Review of " + document.getElementById("review").value;
+        var subj = "Review of " + document.forms[0].subj.value;
+        var review = document.getElementById("review").value;
         
         var h = document.createElement("div");
         h.className = "popReview";
@@ -122,11 +122,8 @@
         
         var reviews = document.getElementById("reviews");
         reviews.insertBefore(h, reviews.childNodes[-1]);
-        //reviews.childNodes[0].parentNode.insertBefore(h, reviews.childNodes[0].nextSibling);
       }
-      function insertAfter(referenceNode, newNode) {
-        referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling);
-      }
+
     </script>
   </body>
 </html>
