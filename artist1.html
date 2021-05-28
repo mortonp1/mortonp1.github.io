@@ -2,7 +2,7 @@
 <html lang="en">
   
   <head>
-    <title> Artist 1 change33 </title>
+    <title> Artist 1 change34 </title>
     <link rel = "stylesheet" href = "style.css">
   </head>
   
@@ -124,7 +124,7 @@
         
         var reviews = document.getElementById("reviews");
         //reviews.insertBefore(h, reviews.childNodes[0]);
-        reviews.childNodes[0].parentNode.insertBefore(h, reviews.childNodes[0]);
+        reviews.childNodes[0].parentNode.insertBefore(h, reviews.childNodes[0].nextSibling);
       }
       function insertAfter(referenceNode, newNode) {
         referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling);
